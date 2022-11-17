@@ -1,4 +1,4 @@
-# 👨‍💻 Kodeeksempler fra programmering på datamatiker-uddannelsen 
+# 👨‍💻 Kodeeksempler fra faget Programmering på datamatiker-uddannelsen 
 
 En liste med programmeringsopgaver fra datamatikerstudiet.
 
