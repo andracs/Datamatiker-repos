@@ -7,6 +7,9 @@ En liste med forskellige programmeringsopgaver på datamatikerstudiet.
 - andracs/Skib - Diverse eksempler fra undervisningen på 1. semester
 - andracs/Array-Intro-Skost-rrelser - Arrays-øvelse
 - andracs/Bank - Eksempel på ArrayList og Tips & tricks til programmeringsopgaven på 1. semester
+- andracs/Opskrifter - Demoprojekt, som arbejder med objekter 
+
+
 
 ## Testing
 - andracs/Regnemaskine-Unittest - En hurtig demonstration af unit test af en regnemaskine mhp. TDD.
