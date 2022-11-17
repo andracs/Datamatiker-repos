@@ -4,11 +4,15 @@ En liste med programmeringsopgaver fra datamatikerstudiet.
 
 # ⭐️ 1. år på datamatikerstudiet: Java & Androidudvikling 
 
+- andracs/HelloWorld2020 - Kodeeksempler fra de første ugers undervisning.
 - andracs/Skib - Diverse eksempler fra undervisningen på 1. semester
 - andracs/Array-Intro-Skost-rrelser - Arrays-øvelse
 - andracs/Bank - Eksempel på ArrayList og Tips & tricks til programmeringsopgaven på 1. semester
+- andracs/Miniprojekt2020 - Et eksempel på en starter på miniprojekt. En fra gruppen må forke den, og invitere de andre som collaborators.
 - andracs/NedarvningPolimorfi - Nedarvning og polimorfi eksempel med Grøntorvets varelager
 - andracs/Algorithms2020 - Øvelsesopgave for algoritmer
+- andracs/BilProjekt2020 - Bygger en bil af klasser og objekter
+- andracs/Minecraft2020 - Vi programmerer Minecraft fra bunden
 
 ## 🌟 GUI med JavaFX	
 - andracs/FXMLDemo2020 - Verdens mindst FXML eksempel. Made in class.
@@ -20,6 +24,8 @@ En liste med programmeringsopgaver fra datamatikerstudiet.
 - andracs/Regnemaskine-Unittest - En hurtig demonstration af unit test af en regnemaskine mhp. TDD.
 - andracs/SimpleCalc - This app is used to explore the Android Studio debugger. It's also the basis for learning about unit testing in SimpleCalcTest.
 - andracs/RMDummy - Fejlhpndteringseksempel, derillustrerer, at programmet (Main.java) kan køre fint, selv om klassernes integritet er brudt, og 2 af 3 tests fejler.
+- andracs/Git-Actions - Et eksempel på hvordan GitHub Actions fanger fejl
+
 
 ## 🍫 Database
 - andracs/DB-Intro-2021 - Simple eksempler på SQlite i Java
@@ -48,8 +54,10 @@ En liste med programmeringsopgaver fra datamatikerstudiet.
 - andracs/Socket2021
 
 ## 🧃 Server side JavaScript med Node.js
-- andracs/Forst-r-vi-Sequelize- - Forstår vi Sequelize? Et ORM-dummyprojekt, som viser, hvordan du kan tilføje Sequelize til en express applikation.
+- andracs/Forst-r-vi-Sequelize- Forstår vi Sequelize? Et ORM-dummyprojekt, som viser, hvordan du kan tilføje Sequelize til en express applikation.
 - andracs/clickerSpil - En NodeJS/Express applikation med SQlite database og Sequelize ORM
 - andracs/zealand_connect - Dette er en NodeJS-løsning udviklet af studerende på datamatiker-uddannelsen. 
+- andracs/Min-forste-RESTful-API-COVID - Containerized API eksempel
 
-
+## Client side JS
+- andracs/cvrapi-i-nodejs-eksempel - Henter data fra CVR API
