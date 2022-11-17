@@ -58,6 +58,7 @@ En liste med programmeringsopgaver og -øvelser fra datamatikerstudiet.
 - andracs/DAT1_Algorithms - Algoritmernes kompleksitet
 
 ## Design patterns
+- andracs/java-design-patterns - En fantastisk resurse om design patterns i Java
 - andracs/design-patterns-exercises - Øvelser 1-4 fra Design Patterns undervisning, 2. semester datamatiker, Næstved
 - andracs/MVVM-demo-for-app-projektet - Denne demo viser step-by, hvordan I kan bygge en app med MVVM arkitektur.
 - andracs/Cosby_Hobbits - Et eksempel på Observer pattern
